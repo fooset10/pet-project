@@ -67,10 +67,10 @@
 
 ---
 
-## 🖼️ Скриншот
+## 🖼️ Скриншоты
 
-> *Добавьте сюда скриншот игры, например:*  
-> ![Gameplay](screenshot.png)
+<img width="1546" height="934" alt="image" src="https://github.com/user-attachments/assets/35e1e1ab-893c-44c0-ab35-6ac23b33b691" />
+
 
 ---
 
