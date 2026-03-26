@@ -97,7 +97,6 @@ python penalty_game.py
 
 🧪 Требования
 Python 3.7+
-
 Pygame 2.5+
 
 🎯 Советы для победы
