@@ -86,7 +86,7 @@ cd football-penalty
 
 2. Установите зависимости
 ```bash
-```pip install pygame
+pip install pygame
 
 
 
