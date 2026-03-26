@@ -82,6 +82,12 @@
 ```bash
 git clone https://github.com/yourusername/football-penalty.git
 cd football-penalty
+```
+
+2. Установите зависимости
+```bash
+```pip install pygame
+
 
 
 
