@@ -87,7 +87,11 @@ cd football-penalty
 2. Установите зависимости
 ```bash
 pip install pygame
-
+```
+3. Запустите игру
+```bash
+python penalty_game.py
+```
 
 
 
